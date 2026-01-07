@@ -1,0 +1,1 @@
+- https://docs.aws.amazon.com/hands-on/latest/build-react-app-amplify-graphql/module-one.html
