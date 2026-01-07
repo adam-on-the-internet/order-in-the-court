@@ -1,4 +1,4 @@
-enum GameState {
+export enum GameState {
   GameSetup = "GAME_SETUP", // Create a game, starting here. This state gives the Host options to Setup the game.
   RoleSelection = "ROLE_SELECTION", // Once settings are locked in by the Host, players can join and select their roles. NOTE: Some players, like the jury, can join at any time.
   JudgePrep = "JUDGE_PREP", // Once the roles are locked, the Judge has some prep to do. Mainly, deciding how the court will flow (freeform vs structured)
