@@ -1,2 +1,3 @@
 - https://docs.aws.amazon.com/hands-on/latest/build-react-app-amplify-graphql/module-one.html
 - setup amplify... but its not working. need to debug. https://main.d1hj1a682wdeno.amplifyapp.com/
+- working, just needed to wait longer!
