@@ -9,3 +9,8 @@
   - added some simple icons with Metro Studio, reworking home page
   - how do I do styling here?
   - may just need to follow tutorial and ignore full content for now
+  - a deployment failed due to the gavel asset failing to load, removed the asset and it deployed
+  - now, part two: https://docs.aws.amazon.com/hands-on/latest/build-react-app-amplify-graphql/module-two.html
+  - had to modify policy on machine (https://stackoverflow.com/questions/54776324/powershell-bug-execution-of-scripts-is-disabled-on-this-system)
+  - trying to run "npx ampx sandbox", but hitting errors. need aim key?
+  - do "npx ampx configure profile" first?
