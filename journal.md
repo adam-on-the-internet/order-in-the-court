@@ -1,3 +1,4 @@
 # Journal
 
 - 1/6/26. Starting repo, and signing up for AWS free tier. Prepping for Phase One.
+- 4/14/26. Returning to it. 

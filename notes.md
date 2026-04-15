@@ -1,3 +1,11 @@
-- https://docs.aws.amazon.com/hands-on/latest/build-react-app-amplify-graphql/module-one.html
-- setup amplify... but its not working. need to debug. https://main.d1hj1a682wdeno.amplifyapp.com/
-- working, just needed to wait longer!
+- starting 1/6/26
+  - https://docs.aws.amazon.com/hands-on/latest/build-react-app-amplify-graphql/module-one.html
+  - setup amplify... but its not working. need to debug. https://main.d1hj1a682wdeno.amplifyapp.com/
+  - working, just needed to wait longer!
+- back at it again 4/14/26
+  - site at: https://main.d1hj1a682wdeno.amplifyapp.com/
+  - run local with "npm run dev"
+  - local hit at: http://localhost:5173/
+  - added some simple icons with Metro Studio, reworking home page
+  - how do I do styling here?
+  - may just need to follow tutorial and ignore full content for now
